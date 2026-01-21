@@ -1,5 +1,7 @@
 # IPL Match Prediction Project
 
+DATASET_LINK = 'https://www.kaggle.com/datasets/dhrubangtalukdar/indian-premier-league-ipl-all-matches2008-2025'
+
 This project predicts outcomes of IPL matches using machine learning and historical data. While the overall model accuracy is around 50%, it performs exceptionally well in predicting results for consistent teams like **Mumbai Indians (MI)**, **Chennai Super Kings (CSK)**, and **Royal Challengers Bangalore (RCB)**.  
 
 ## Key Highlights
